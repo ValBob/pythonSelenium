@@ -1,0 +1,56 @@
+1648806288848	geckodriver	INFO	Listening on 127.0.0.1:49514
+1648806291939	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\gefes\\AppData\\Local\\Temp\\rust_mozprofileokV7Q6"
+1648806293311	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gefes\\AppData\\Local\\Temp\\rust_mozprofileokV7Q6\\search.json.mozlz4", (void 0)))
+1648806297437	Marionette	INFO	Listening on port 49524
+1648806297895	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1648244899, line 6286: unreachable code after return statement
+JavaScript error: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1648244899, line 6102: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648806400267	Marionette	INFO	Stopped listening on port 49524
+[Parent 18992, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1648810154302	geckodriver	INFO	Listening on 127.0.0.1:63258
+1648810157393	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\gefes\\AppData\\Local\\Temp\\rust_mozprofileX35RHz"
+1648810158466	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gefes\\AppData\\Local\\Temp\\rust_mozprofileX35RHz\\search.json.mozlz4", (void 0)))
+1648810162195	Marionette	INFO	Listening on port 58216
+1648810162329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 758: ReferenceError: oscar is not defined
+1648810164151	Marionette	INFO	Stopped listening on port 58216
+1648811513221	geckodriver	INFO	Listening on 127.0.0.1:60214
+1648811516296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\gefes\\AppData\\Local\\Temp\\rust_mozprofilefBaUk6"
+1648811517489	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gefes\\AppData\\Local\\Temp\\rust_mozprofilefBaUk6\\search.json.mozlz4", (void 0)))
+1648811521893	Marionette	INFO	Listening on port 60222
+1648811522193	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 758: ReferenceError: oscar is not defined
+1648811524316	Marionette	INFO	Stopped listening on port 60222
+[Parent 21672, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1648976400711	geckodriver	INFO	Listening on 127.0.0.1:54760
+1648976403866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\gefes\\AppData\\Local\\Temp\\rust_mozprofileRyd6Km"
+1648976405085	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gefes\\AppData\\Local\\Temp\\rust_mozprofileRyd6Km\\search.json.mozlz4", (void 0)))
+1648976408867	Marionette	INFO	Listening on port 54768
+1648976409311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1648976421712	Marionette	INFO	Stopped listening on port 54768
+1648976727546	geckodriver	INFO	Listening on 127.0.0.1:54829
+1648976730629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\gefes\\AppData\\Local\\Temp\\rust_mozprofileFWt5hd"
+1648976731229	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gefes\\AppData\\Local\\Temp\\rust_mozprofileFWt5hd\\search.json.mozlz4", (void 0)))
+1648976733391	Marionette	INFO	Listening on port 54837
+1648976733866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1648976745743	Marionette	INFO	Stopped listening on port 54837
+1648976853790	geckodriver	INFO	Listening on 127.0.0.1:54946
+1648976856843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\gefes\\AppData\\Local\\Temp\\rust_mozprofileVItZd0"
+1648976857386	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gefes\\AppData\\Local\\Temp\\rust_mozprofileVItZd0\\search.json.mozlz4", (void 0)))
+1648976859762	Marionette	INFO	Listening on port 54954
+1648976860071	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1648976872210	Marionette	INFO	Stopped listening on port 54954
+[Parent 8652, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
